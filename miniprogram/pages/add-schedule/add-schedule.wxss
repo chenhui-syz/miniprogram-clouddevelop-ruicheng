@@ -1,0 +1,5 @@
+/* pages/addlog/addlog.wxss */
+.header{
+	margin-top: 96rpx;
+	text-align: center;
+}

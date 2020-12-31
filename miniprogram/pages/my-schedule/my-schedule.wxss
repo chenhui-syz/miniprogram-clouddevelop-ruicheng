@@ -1,0 +1,51 @@
+.phone-input {
+	color: #777;
+}
+
+.logo-wrapper {
+	padding: 0 50rpx;
+}
+
+.logo-wrapper view {
+	padding: 15rpx 0;
+	border-bottom: 1rpx dashed #ddd;
+}
+
+.weui-half-screen-dialog__ft {
+	display: flex;
+	align-items: center;
+}
+
+.logwrapper {
+	padding: 0 50rpx;
+}
+
+.loglist {
+	padding: 10rpx 0;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	border-bottom: 1px dashed #ddd;
+}
+
+.loglist-left {
+	padding-right: 20rpx;
+}
+
+.loglist-right {
+	flex: 1;
+}
+
+
+
+.search-wrapper {
+	display: flex;
+	align-items: center;
+	margin: 50rpx;
+}
+
+.search-wrapper input {
+	border: 1px solid #ddd;
+	height: 80rpx;
+	padding: 10rpx;
+}

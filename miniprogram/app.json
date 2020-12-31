@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/my-schedule/my-schedule",
+    "pages/picture-share/picture-share",
+    "pages/educate-infor/educate-infor",
+    "pages/travel-strategy/travel-strategy",
+    "pages/add-schedule/add-schedule"
+  ],
+  "window": {
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "睿程",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/my-schedule/my-schedule",
+      "text": "我的日历",
+      "iconPath":"./images/icon_tabbar.png"
+    }, {
+      "pagePath": "pages/picture-share/picture-share",
+      "text": "图片分享",
+      "iconPath":"./images/icon_tabbar.png"
+    }, {
+      "pagePath": "pages/educate-infor/educate-infor",
+      "text": "教育信息",
+      "iconPath":"./images/icon_tabbar.png"
+    }, {
+      "pagePath": "pages/travel-strategy/travel-strategy",
+      "text": "旅游攻略",
+      "iconPath":"./images/icon_tabbar.png"
+    }]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
